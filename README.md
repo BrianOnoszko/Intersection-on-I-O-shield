@@ -6,4 +6,4 @@ Intersection with traffic lights and pedestrian crossings made for a Nucleo-L476
 ## Content
 - File with code written by me in **C**
 - **.Ioc** file with related setting for configuring development board
-- **-zip** file with the complete project
+- **.zip** file with the complete project
